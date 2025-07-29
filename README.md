@@ -1,13 +1,6 @@
 # 👋 Hi, I'm Aleksejs Sitdikovs
 
-I'm a TechOps Engineer transitioning into DevOps — with a passion for automation, scripting, and building reliable IT systems.
-
-## 🚀 What I'm Working On
-
-- 🔧 Automating tasks with Bash and Python
-- 🐧 Sharpening Linux and networking fundamentals
-- ☁️ Exploring AWS services and cloud infrastructure
-- 🧠 Learning DevOps tools and workflows
+I'm a TechOps Engineer with a passion for automation, scripting, and building reliable IT systems.
 
 ## 🛠️ Tools & Technologies
 
@@ -15,15 +8,6 @@ I'm a TechOps Engineer transitioning into DevOps — with a passion for automati
 **Tools:** Git, Docker, Jamf, Intune, Snipe-IT  
 **Cloud & Infra:** AWS, Linux, Windows Server  
 **Other:** Jira, GitHub, Google Workspace
-
-## 📂 Featured Projects
-
-- [`linux-user-setup`](https://github.com/asitdikovs/linux-user-setup): Bash script for automated user creation with secure logging
-- [`File_mover`](https://github.com/asitdikovs/File_mover): Python CLI for organizing files by extension
-
-## 📫 Connect with Me
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/aleksejs-sitdikovs-947999230/)
 
 <!--
 **asitdikovs/asitdikovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
